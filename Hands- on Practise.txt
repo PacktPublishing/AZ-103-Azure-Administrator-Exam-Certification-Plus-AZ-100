@@ -1,0 +1,119 @@
+Hands-On Practice
+For some extra practice, check out the hands on labs about Log Analytics.
+
+https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs#keywords=Deep%20Analysis%20with%20Microsoft%20Azure%20Log%20Analytics&page=1&sort=Newest
+
+
+
+Hands-On Practice
+For some extra practice, check out the hands on labs about Azure Policy.
+
+https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs#keywords=Exploring%20Azure%20Governance%20Policy&page=1&sort=Newest
+
+Simply search for "Exploring Azure Governance Policy" to launch it.
+
+
+Hands-On Practice
+For some extra practice, check out the hands on labs about Storage Accounts.
+
+https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs#keywords=Azure%20Storage%20Accounts&page=1&sort=Newest
+
+Simply search for "Azure Storage Accounts" to launch it.
+
+
+Hands-On Practice
+For some extra practice, check out the hands on labs about Azure Backup.
+
+https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs#keywords=Protect%20Your%20Cloud%20Resources%20with%20Azure%20Backup%20and%20Site%20Recovery&page=1&sort=Newest
+
+Simply search for "Protect Your Cloud Resources with Azure Backup and Site Recovery" to launch it.
+
+
+
+Hands-On Practice
+For some extra practice, check out the hands on labs about Azure VMs.
+
+https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs#keywords=Advanced%20Azure%20Virtual%20Machine%20and%20Compute&page=1&sort=Newest
+
+Simply search for "Advanced Azure Virtual Machine and Compute" to launch it.
+
+
+Hands-On Practice
+For some extra practice, check out the hands on labs about ARM Templates. There are quite a few labs dealing with templates.
+
+Update 3/13/2019 >>> The Hands-On Labs seem to have been removed. Will updated when they return.
+
+Simply search for "Building ARM Template Infrastructure" to launch it.
+
+Or check out the "Understanding ARM Templates" lab there too. As well as "Deploying VMs in an ARM Template".
+
+
+14] Hands-On Practice
+For some extra practice, check out the hands on labs about Azure Backup.
+
+https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs#keywords=Protect%20Your%20Cloud%20Resources%20with%20Azure%20Backup%20and%20Site%20Recovery&page=1&sort=Newest
+
+Simply search for "Protect Your Cloud Resources with Azure Backup and Site Recovery" to launch it.
+
+
+15] Hands-On Practice
+For some extra practice, check out the hands on labs about Azure Networking.
+
+https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs#keywords=Azure%20Networking%20Concepts&page=1&sort=Newest
+
+Simply search for "Azure Networking Concepts" to launch it.
+
+
+16] Hands-On Practice
+For some extra practice, check out the hands on labs about Azure Networking.
+
+https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs#keywords=Azure%20Networking%20Concepts&page=1&sort=Newest
+
+Simply search for "Azure Networking Concepts" to launch it.
+
+
+18] Hands-On Practice
+For some extra practice, check out the hands on labs about Network Security Groups.
+
+https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs#keywords=Deploy%20Network%20Security%20Groups%20and%20Load%20Balancers&page=1&sort=Newest
+
+Simply search for "Deploy Network Security Groups and Load Balancers" to launch it.
+
+
+19] Hands-On Practice
+For some extra practice, check out the hands on labs about Azure Active Directory.
+
+https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs#keywords=Active%20Directory&page=1&sort=Newest
+
+Simply search for "Managing Identity (Azure Active Directory)" to launch it.
+
+
+23] Hands-On Practice
+If you do not have an Azure Active Directory on your account, create one at the free tier.
+
+Investigate how users and groups work, as well as roles, using your own Azure AD.
+
+If you are willing to do the "free trial" of the Premium tier, do that.
+
+Then enable MFA and conditional access for admin users.
+
+
+24] Hands-On Practice
+For some extra practice, check out the hands on labs about Load Balancers.
+
+https://www.microsoft.com/handsonlabs/selfpacedlabs
+
+Simply search for "Load Balancer" to launch it.
+
+
+
+25] Hands-On Practice
+For some extra practice, check out the hands on labs about Advanced Networking Concepts.
+
+https://www.microsoft.com/handsonlabs/selfpacedlabs
+
+Simply search for "Azure Networking Concepts" to launch it.
+
+There is also another called "Understanding Azure Networking".
+
+
